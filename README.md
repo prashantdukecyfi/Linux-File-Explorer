@@ -8,9 +8,9 @@ Implemented a simple Linux File Explorer using C++. The File Explorer has two wo
 * Default mode of file explorer, allowing user to navigate through file system using keyboard shortcuts.
 * Displays directory content similar to `ls` command output in Unix based systems. 
 
-![normal_mode](https://github.com/prashantdukecyfi/Linux-File-Explorer/images/1.png)
+![normal_mode](https://github.com/prashantdukecyfi/Linux-File-Explorer/blob/main/images/1.png)
 
-![normal_mode](https://github.com/prashantdukecyfi/Linux-File-Explorer/images/2.png)
+![normal_mode](https://github.com/prashantdukecyfi/Linux-File-Explorer/blob/main/images/2.png)
 
 ### Keyboard Shortcuts
 1. Up: Up arrow key
@@ -28,7 +28,7 @@ Implemented a simple Linux File Explorer using C++. The File Explorer has two wo
 * Allows user to enter different commands at the bottom of the screen.
 * Press `:` to enter command mode.
 
-![command_mode](https://github.com/prashantdukecyfi/Linux-File-Explorer/images/3.png)
+![command_mode](https://github.com/prashantdukecyfi/Linux-File-Explorer/blob/main/images/3.png)
 
 ### Commands
 1. Copy: `copy <source_file(s)/directory(ies)> <destination_directory>`
